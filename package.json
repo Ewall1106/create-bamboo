@@ -1,6 +1,6 @@
 {
   "name": "create-bamboo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "DanielXiong<ewall1106@gmail.com>",
   "description": "Alias for bamboo-init",
   "bin": "./lib/index.js",
@@ -12,10 +12,13 @@
     "registry": "https://registry.npmjs.org/"
   },
   "files": [
-    "lib" 
+    "lib"
   ],
   "keywords": [
     "bamboo"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bamboo-init": "^1.0.0"
+  }
 }
