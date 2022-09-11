@@ -1,4 +1,4 @@
-## create-bamboo
+## CREATE-BAMBOO
 
 Alias for `bamboo-init`, so you could use `npm init [bamboo-id]` to get bamboo materials.
 
@@ -8,7 +8,7 @@ Build components: https://bamboo-material.vercel.app
 
 More infomation: https://bamboo-docs.vercel.app
 
-### usage
+### USAGE
 
 ```bash
 $ npm init bamboo create <bamboo-id>
